@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Naman Jain
+# 👋 Welcome to My GitHub Profile!
 
 <div align="center">
 
-**Full-Stack Developer | Flutter & Firebase Specialist | IIIT Kota**
+# **Naman Jain**
+### Full-Stack Developer | Flutter & Firebase Specialist | Electronics & Communication Engineer
+
+![Profile Views](https://komarev.com/ghpvc/?username=engnaman7752&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engnaman7752)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engnaman7752)
