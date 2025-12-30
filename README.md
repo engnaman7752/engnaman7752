@@ -138,17 +138,41 @@ Currently working on building **Fresh Dine** - a complete food delivery ecosyste
 
 ---
 
+## ☕ Java Spring Boot Expertise
+
+### Backend Development Mastery
+I specialize in building **scalable, production-ready backend systems** using **Spring Boot 3.x** with modern Java practices.
+
+**Spring Boot Skills:**
+- 🏗️ **Microservices Architecture**: Building scalable REST APIs with Spring Boot
+- 🔐 **Security**: Spring Security, JWT authentication, OAuth2 integration
+- 💾 **Data Persistence**: Spring Data JPA, Hibernate ORM, PostgreSQL optimization
+- 📡 **RESTful APIs**: Design patterns, API versioning, comprehensive documentation
+- 🔄 **Async Processing**: Spring WebFlux, reactive programming
+- 📋 **Validation**: Bean validation, custom validators, error handling
+- 🧪 **Testing**: JUnit 5, Mockito, integration testing
+- 🚀 **Deployment**: Docker containerization, CI/CD pipelines
+
+**Real-World Projects:**
+- EduPay system with 1000+ concurrent users
+- Student record management with SMS notifications
+- Multi-tenant admin dashboards with role-based access
+
+---
+
 ## 🏆 Achievements & Recognitions
 
 <div align="center">
 
-| Achievement | Details | Certificate |
-|-------------|---------|-------------|
-| **CodeChef** | 4-Star Rating (1800+ points) | [View](https://codechef.com) |
-| **LeetCode** | Knight Rating (1850+ problems) | [View](https://leetcode.com/user-id-eng_naman7752) |
-| **CodeForces** | Specialist (1400+) | [View](https://codeforces.com) |
-| **SHASTRA** | IIT Madras Programming Contest - **Finalist** | [View Certificate](#) |
-| **JEE Advanced** | AIR 20,503 (Top 2.5% among 1.2M+ candidates) | ⭐ |
+| Achievement | Details | Year |
+|-------------|---------|------|
+| **CodeChef** | 4-Star Rating (1800+ points) | 2024 |
+| **LeetCode** | Knight Rating (1850+ problems solved) | 2024 |
+| **CodeForces** | Specialist Level (1400+ rating) | 2024 |
+| **SHASTRA** | IIT Madras Programming Contest - **Finalist** | 2023 |
+| **JEE Advanced** | AIR 20,503 (Top 2.5% among 1.2M+ candidates) | 2022 |
+| **Spring Boot Expert** | Built production-grade backend systems | 2024 |
+| **Full-Stack Developer** | 4+ complete projects deployed | 2024 |
 
 </div>
 
