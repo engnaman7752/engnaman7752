@@ -258,6 +258,4 @@ I believe in:
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=engnaman7752)
 
-**Made with ❤️ by Naman Jain**
-
 </div>
