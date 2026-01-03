@@ -243,7 +243,7 @@ I believe in:
 
 **Open to collaborations, freelance projects, and internship opportunities!**
 
-- 💼 **LinkedIn**: [@engnaman7752](https://linkedin.com/in/engnaman7752)
+- 💼 **LinkedIn**: [Naman Jain](https://www.linkedin.com/in/naman-jain7752)
 - 📧 **Email**: [nj26010@gmail.com](mailto:nj26010@gmail.com)
 - 📱 **Phone**: [+91 8440071773](tel:+918440071773)
 - 🐙 **GitHub**: [@engnaman7752](https://github.com/engnaman7752)
