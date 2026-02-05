@@ -50,7 +50,31 @@ Currently working on building **Fresh Dine** - a complete food delivery ecosyste
 
 ---
 
-### 2️⃣ **EduPay - School Management System**
+### 2️⃣ **Agri Shield AI - Crop Insurance Platform** 🌾 ⭐ NEW
+*AI-powered crop damage assessment for automated insurance claims*
+
+**Tech Stack**: Spring Boot 3.2 • Flutter • FastAPI • PyTorch (ResNet50) • PostgreSQL
+
+| Component | Status | Features |
+|-----------|--------|----------|
+| **Farmer App** | ✅ Complete | OTP login, policy enrollment, claim filing with photos, Razorpay payments |
+| **Patwari App** | ✅ Complete | QR verification, claim approval/rejection, GPS-tagged inspections |
+| **Backend API** | ✅ Complete | JWT auth, REST APIs, Swagger docs, multi-role access |
+| **AI Service** | ✅ Complete | ResNet50 disease detection (~98.7% accuracy on PlantVillage dataset) |
+
+**Key Highlights**:
+- 🤖 AI-powered crop disease detection using deep learning (38 disease classes)
+- 📸 Automated damage percentage calculation from crop images
+- 🔐 JWT authentication with role-based access (Farmer/Patwari)
+- 💳 Razorpay payment integration for premium payments
+- 📍 GPS-tagged claims and field verifications
+- 📊 IoT sensor data integration for environmental monitoring
+
+👉 [View Repository](https://github.com/engnaman7752/agri-shield-ai)
+
+---
+
+### 3️⃣ **EduPay - School Management System**
 *Cross-platform school management with SMS reminders*
 
 **Tech Stack**: Java • Spring Boot 3.5.3 • PostgreSQL • Flutter • Twilio SMS
@@ -64,7 +88,7 @@ Currently working on building **Fresh Dine** - a complete food delivery ecosyste
 
 ---
 
-### 3️⃣ **Pet Guardian - AI-Powered Pet Health Monitor**
+### 4️⃣ **Pet Guardian - AI-Powered Pet Health Monitor**
 *Real-time pet health monitoring with ML-based anomaly detection*
 
 **Tech Stack**: Flutter • Firebase • AI/ML • Google Maps API
@@ -78,7 +102,7 @@ Currently working on building **Fresh Dine** - a complete food delivery ecosyste
 
 ---
 
-### 4️⃣ **Quiz Master - Interactive Learning Platform**
+### 5️⃣ **Quiz Master - Interactive Learning Platform**
 *Multi-user quiz platform with admin dashboard*
 
 **Tech Stack**: Flask • SQLite • Jinja2 • HTML/CSS
