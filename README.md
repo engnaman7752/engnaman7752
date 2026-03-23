@@ -74,17 +74,19 @@ Currently working on building **Fresh Dine** - a complete food delivery ecosyste
 
 ---
 
-### 3️⃣ **EduPay - School Management System**
-*Cross-platform school management with SMS reminders*
+### 3️⃣ **EduPay AI - Intelligent School Fee Management** ⭐ NEW
+*AI-powered school assistant with RAG-based policy chat and real-time reminders*
 
-**Tech Stack**: Java • Spring Boot 3.5.3 • PostgreSQL • Flutter • Twilio SMS
+**Tech Stack**: Java • Spring Boot 3.5.x • Spring AI • Google Gemini • PostgreSQL (pgvector) • Flutter • STOMP WebSockets
 
-**Impact**:
-- 🎓 Manages 1000+ student records with real-time backend integration
-- 📧 Monthly SMS reminders via Twilio API (~95% delivery success rate)
-- 💰 Responsive web & mobile interface with CRUD operations
-- 🔒 JWT-based authentication for multi-administrator access
-- 📊 Reduced manual efforts by 40%
+**Key Highlights**:
+- 🤖 **AI Chat Assistant**: Built a powerful RAG engine using Spring AI and pgvector to answer parents' queries based on school policy documents.
+- ⚡ **Real-Time Notifications**: Replaced SMS with instant STOMP WebSocket push notifications for automated fee reminders drafted by GenAI.
+- 🔐 **Scoped AI Context**: Leveraged JWT authentication to ensure the LLM only accesses and discusses specific student fee data based on user roles.
+- 💎 **Premium Mobile App**: Flutter frontend with dark glassmorphism UI, animated chat bubbles, markdown rendering, and typing indicators.
+- 📊 **Smart Dashboard**: Reduced manual administration efforts by automating fee status tracking, outstanding balance insights, and payment processing.
+
+👉 [View Repository](https://github.com/engnaman7752/EDUPay)
 
 ---
 
