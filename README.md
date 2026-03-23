@@ -3,7 +3,7 @@
 <div align="center">
 
 # **Naman Jain**
-### Full-Stack Developer | Flutter & Firebase Specialist | Electronics & Communication Engineer
+### Full-Stack Developer | Flutter, Spring Boot & AI Integrations | Electronics & Communication Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=engnaman7752&color=blue)
 
@@ -26,31 +26,7 @@ Currently working on building **Fresh Dine** - a complete food delivery ecosyste
 
 ## 🌟 Featured Projects
 
-### 1️⃣ **Fresh Dine - Food Delivery Platform** ⭐
-*Complete multi-platform food delivery ecosystem*
-
-**Tech Stack**: Flutter • Firebase • Firestore • Razorpay
-
-| Component | Status | Features |
-|-----------|--------|----------|
-| **User App** | ✅ Complete | Restaurant browsing, cart, Razorpay payments, order tracking |
-| **Admin Portal** | ✅ Complete | Dashboard, order management, seller approval, commission tracking |
-| **Seller App** | 🔄 In Progress | Menu management, order fulfillment, earnings tracking |
-| **Rider App** | 🔄 In Progress | Delivery acceptance, GPS tracking, status updates |
-
-**Key Highlights**:
-- 💳 Multi-payment support (Card, Cash on Delivery)
-- 📊 Real-time commission tracking (10% company, 90% seller)
-- 🔐 Secure Firebase Authentication
-- 📍 Geolocation-based services
-- 🎯 Automatic commission calculation
-- 📈 Real-time analytics & reports
-
-👉 [View Repository](https://github.com/engnaman7752/foodDeliveryApp)
-
----
-
-### 2️⃣ **Agri Shield AI - Crop Insurance Platform** 🌾 ⭐ NEW
+### 1️⃣ **Agri Shield AI - Crop Insurance Platform** 🌾 ⭐ NEW
 *AI-powered crop damage assessment for automated insurance claims*
 
 **Tech Stack**: Spring Boot 3.2 • Flutter • FastAPI • PyTorch (ResNet50) • PostgreSQL
@@ -74,7 +50,7 @@ Currently working on building **Fresh Dine** - a complete food delivery ecosyste
 
 ---
 
-### 3️⃣ **EduPay AI - Intelligent School Fee Management** ⭐ NEW
+### 2️⃣ **EduPay AI - Intelligent School Fee Management** ⭐ NEW
 *AI-powered school assistant with RAG-based policy chat and real-time reminders*
 
 **Tech Stack**: Java • Spring Boot 3.5.x • Spring AI • Google Gemini • PostgreSQL (pgvector) • Flutter • STOMP WebSockets
@@ -87,6 +63,30 @@ Currently working on building **Fresh Dine** - a complete food delivery ecosyste
 - 📊 **Smart Dashboard**: Reduced manual administration efforts by automating fee status tracking, outstanding balance insights, and payment processing.
 
 👉 [View Repository](https://github.com/engnaman7752/EDUPay)
+
+---
+
+### 3️⃣ **Fresh Dine - Food Delivery Platform** ⭐
+*Complete multi-platform food delivery ecosystem*
+
+**Tech Stack**: Flutter • Firebase • Firestore • Razorpay
+
+| Component | Status | Features |
+|-----------|--------|----------|
+| **User App** | ✅ Complete | Restaurant browsing, cart, Razorpay payments, order tracking |
+| **Admin Portal** | ✅ Complete | Dashboard, order management, seller approval, commission tracking |
+| **Seller App** | 🔄 In Progress | Menu management, order fulfillment, earnings tracking |
+| **Rider App** | 🔄 In Progress | Delivery acceptance, GPS tracking, status updates |
+
+**Key Highlights**:
+- 💳 Multi-payment support (Card, Cash on Delivery)
+- 📊 Real-time commission tracking (10% company, 90% seller)
+- 🔐 Secure Firebase Authentication
+- 📍 Geolocation-based services
+- 🎯 Automatic commission calculation
+- 📈 Real-time analytics & reports
+
+👉 [View Repository](https://github.com/engnaman7752/foodDeliveryApp)
 
 ---
 
