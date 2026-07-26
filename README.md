@@ -1,120 +1,195 @@
-# 👋 Welcome to My GitHub Profile!
-
 <div align="center">
 
-# **Naman Jain**
-### Full-Stack Developer | Flutter, Spring Boot & AI Integrations | Electronics & Communication Engineer
+# Hey there, I'm Naman Jain 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=engnaman7752&color=blue)
+### `Java & Spring Boot Backend Engineer` | `Generative AI Builder` | `1100+ DSA Problems`
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engnaman7752)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engnaman7752)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nj26010@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%208440071773-green?style=for-the-badge)](tel:+918440071773)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/eng_naman7752)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanjain7752@gmail.com)
 
 </div>
 
 ---
 
-## 🎓 About Me
+## ⚡ Who Am I?
 
-I'm an **Electronics and Communication Engineering student** at **IIIT Kota** (CGPA 8.16) passionate about building scalable, production-ready applications. I specialize in **Full-Stack Development** with expertise in **Flutter, Firebase, Spring Boot, and PostgreSQL**.
+```java
+@SpringBootApplication
+public class NamanJain {
 
-Currently working on building **Fresh Dine** - a complete food delivery ecosystem with multiple platforms and real-time features.
+    public static void main(String[] args) {
+        Developer naman = Developer.builder()
+            .name("Naman Jain")
+            .education("B.Tech ECE @ IIIT Kota | CGPA: 8.37")
+            .role("Java & Spring Boot Backend Engineer")
+            .passions(List.of("Backend Architecture", "Generative AI", "System Design"))
+            .currentlyBuilding("AI-Powered Platforms with Spring Boot + LangChain + RAG")
+            .build();
+
+        SpringApplication.run(NamanJain.class, args);
+    }
+}
+```
+
+> I engineer **production-grade backend systems** using **Java & Spring Boot** — from REST APIs and WebSocket engines to AI-powered platforms with **Spring AI, LangChain, and RAG**. I don't just write code; I architect ecosystems.
+
+---
+
+## 🏗️ Core Backend Architecture
+
+<div align="center">
+
+```
+                        ┌─────────────────────────────────────────┐
+                        │         NAMAN'S BACKEND STACK           │
+                        └────────────────────┬────────────────────┘
+                                             │
+                 ┌───────────────────────────┼───────────────────────────┐
+                 │                           │                           │
+      ┌──────────▼──────────┐    ┌───────────▼───────────┐   ┌──────────▼──────────┐
+      │   🟢 SPRING BOOT    │    │   🧠 GENERATIVE AI    │   │   📱 MOBILE/WEB     │
+      │                     │    │                       │   │                     │
+      │  REST APIs          │    │  Spring AI + RAG      │   │  Flutter (Dart)     │
+      │  Spring Security    │    │  LangChain Agents     │   │  React              │
+      │  JWT Auth           │    │  Vector Embeddings    │   │  Firebase           │
+      │  Hibernate/JPA      │    │  Prompt Engineering   │   │  FCM Push           │
+      │  WebSockets (STOMP) │    │  Gemini API           │   │  Google Maps API    │
+      │  Microservices      │    │  PyTorch / FastAPI    │   │  Razorpay           │
+      └─────────────────────┘    └───────────────────────┘   └─────────────────────┘
+                 │                           │                           │
+                 └───────────────────────────┼───────────────────────────┘
+                                             │
+                        ┌────────────────────▼────────────────────┐
+                        │    PostgreSQL · Firebase · SQLite       │
+                        │         GCP · AWS · Docker              │
+                        └─────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 1️⃣ **Agri Shield AI - Crop Insurance Platform** 🌾 ⭐ NEW
-*AI-powered crop damage assessment for automated insurance claims*
+### <img src="https://img.shields.io/badge/🌾_Agri_Shield_AI-AI_Crop_Insurance-2E7D32?style=for-the-badge" />
 
-**Tech Stack**: Spring Boot 3.2 • Flutter • FastAPI • PyTorch (ResNet50) • PostgreSQL
+> **AI-Powered Crop Insurance Platform** — Spring Boot + PyTorch + LangChain React Agent
 
-| Component | Status | Features |
-|-----------|--------|----------|
-| **Farmer App** | ✅ Complete | OTP login, policy enrollment, claim filing with photos, Razorpay payments |
-| **Patwari App** | ✅ Complete | QR verification, claim approval/rejection, GPS-tagged inspections |
-| **Backend API** | ✅ Complete | JWT auth, REST APIs, Swagger docs, multi-role access |
-| **AI Service** | ✅ Complete | ResNet50 disease detection (~98.7% accuracy on PlantVillage dataset) |
+<table>
+<tr>
+<td width="60%">
 
-**Key Highlights**:
-- 🤖 AI-powered crop disease detection using deep learning (38 disease classes)
-- 📸 Automated damage percentage calculation from crop images
-- 🔐 JWT authentication with role-based access (Farmer/Patwari)
-- 💳 Razorpay payment integration for premium payments
-- 📍 GPS-tagged claims and field verifications
-- 📊 IoT sensor data integration for environmental monitoring
+**🔧 Architecture**
+| Layer | Technology |
+|:---|:---|
+| **Core Backend** | Java, Spring Boot, Spring Security, JWT |
+| **AI/ML Engine** | PyTorch ResNet50, FastAPI |
+| **GenAI Agent** | LangChain, RAG, React Agent |
+| **Mobile** | Flutter (Farmer App + Inspector App) |
+| **Payments** | Razorpay Gateway |
+| **Database** | PostgreSQL |
 
-👉 [View Repository](https://github.com/engnaman7752/agri-shield-ai)
+</td>
+<td width="40%">
 
----
+**📈 Impact Metrics**
+| Metric | Result |
+|:---|:---|
+| Damage Detection Accuracy | **98.7%** |
+| Claim Processing Speedup | **80% faster** |
+| Platform Users | Farmers + Inspectors |
+| AI Agent Queries | Real-time RAG |
 
-### 2️⃣ **EduPay AI - Intelligent School Fee Management** ⭐ NEW
-*AI-powered school assistant with RAG-based policy chat and real-time reminders*
+</td>
+</tr>
+</table>
 
-**Tech Stack**: Java • Spring Boot 3.5.x • Spring AI • Google Gemini • PostgreSQL (pgvector) • Flutter • STOMP WebSockets
-
-**Key Highlights**:
-- 🤖 **AI Chat Assistant**: Built a powerful RAG engine using Spring AI and pgvector to answer parents' queries based on school policy documents.
-- ⚡ **Real-Time Notifications**: Replaced SMS with instant STOMP WebSocket push notifications for automated fee reminders drafted by GenAI.
-- 🔐 **Scoped AI Context**: Leveraged JWT authentication to ensure the LLM only accesses and discusses specific student fee data based on user roles.
-- 💎 **Premium Mobile App**: Flutter frontend with dark glassmorphism UI, animated chat bubbles, markdown rendering, and typing indicators.
-- 📊 **Smart Dashboard**: Reduced manual administration efforts by automating fee status tracking, outstanding balance insights, and payment processing.
-
-👉 [View Repository](https://github.com/engnaman7752/EDUPay)
-
----
-
-### 3️⃣ **Fresh Dine - Food Delivery Platform** ⭐
-*Complete multi-platform food delivery ecosystem*
-
-**Tech Stack**: Flutter • Firebase • Firestore • Razorpay
-
-| Component | Status | Features |
-|-----------|--------|----------|
-| **User App** | ✅ Complete | Restaurant browsing, cart, Razorpay payments, order tracking |
-| **Admin Portal** | ✅ Complete | Dashboard, order management, seller approval, commission tracking |
-| **Seller App** | 🔄 In Progress | Menu management, order fulfillment, earnings tracking |
-| **Rider App** | 🔄 In Progress | Delivery acceptance, GPS tracking, status updates |
-
-**Key Highlights**:
-- 💳 Multi-payment support (Card, Cash on Delivery)
-- 📊 Real-time commission tracking (10% company, 90% seller)
-- 🔐 Secure Firebase Authentication
-- 📍 Geolocation-based services
-- 🎯 Automatic commission calculation
-- 📈 Real-time analytics & reports
-
-👉 [View Repository](https://github.com/engnaman7752/foodDeliveryApp)
+**Key Engineering:**
+- 🏗️ **Spring Boot Microservice** — Core backend with JWT-secured REST APIs powering dual Flutter apps for farmers and field inspectors
+- 🤖 **PyTorch Vision Pipeline** — Custom ResNet50 model served via FastAPI achieving 98.7% crop damage classification
+- 🧠 **LangChain React Agent** `NEW` — Integrated an intelligent conversational agent using **LangChain + RAG** for real-time claim assistance, policy Q&A, and agricultural advisory — dynamically retrieving context from knowledge bases
+- 💳 **Razorpay Payment Flow** — End-to-end automated claim settlement reducing turnaround by 80%
 
 ---
 
-### 4️⃣ **Pet Guardian - AI-Powered Pet Health Monitor**
-*Real-time pet health monitoring with ML-based anomaly detection*
+### <img src="https://img.shields.io/badge/🏫_EduPay_AI-GenAI_School_System-1565C0?style=for-the-badge" />
 
-**Tech Stack**: Flutter • Firebase • AI/ML • Google Maps API
+> **Generative AI School Management System** — Spring Boot + Spring AI + RAG + WebSockets
 
-**Achievements**:
-- 🐕 Real-time pet monitoring app with 50+ daily notifications
-- 🤖 AI/ML algorithms achieving **>85% accuracy** in health anomaly detection
-- 📱 Integrated Google Maps API for pet location tracking
-- 🔥 Firebase Cloud Messaging for automated health alerts
-- 📈 Increased user engagement by 40%
+<table>
+<tr>
+<td width="60%">
+
+**🔧 Architecture**
+| Layer | Technology |
+|:---|:---|
+| **Core Backend** | Java, Spring Boot, Hibernate, JPA |
+| **Generative AI** | Spring AI, RAG, Vector Embeddings |
+| **Real-Time Engine** | WebSockets (STOMP Protocol) |
+| **Security** | Spring Security, JWT (Multi-Tenant) |
+| **Database** | PostgreSQL |
+
+</td>
+<td width="40%">
+
+**📈 Impact Metrics**
+| Metric | Result |
+|:---|:---|
+| RAG Query Accuracy | **90%+** |
+| Admin Effort Reduction | **85%** |
+| Manual Inquiry Reduction | **70%** |
+| Architecture | Multi-Tenant |
+
+</td>
+</tr>
+</table>
+
+**Key Engineering:**
+- 🏗️ **Spring Boot + Spring AI Backend** — Enterprise-grade multi-tenant backend with Spring Security JWT isolation per school
+- 🧠 **RAG-Powered Helpdesk** — Vector-embedded institutional handbooks queried via Spring AI with 90%+ accuracy for student/parent inquiries
+- ⚡ **STOMP WebSocket Engine** — Real-time notification system that auto-generates and pushes AI-drafted fee reminders, cutting admin workload by 85%
 
 ---
 
-### 5️⃣ **Quiz Master - Interactive Learning Platform**
-*Multi-user quiz platform with admin dashboard*
+### <img src="https://img.shields.io/badge/🍔_Fresh_Dine-Food_Delivery_Ecosystem-E65100?style=for-the-badge" />
 
-**Tech Stack**: Flask • SQLite • Jinja2 • HTML/CSS
+> **Comprehensive Food Delivery Ecosystem** — Flutter + Firebase + Google Maps + Razorpay
 
-**Features**:
-- 🎮 Multi-user platform with admin and user roles (50+ active users)
-- 📋 Optimized SQLite schema reducing query execution by **30%**
-- 📊 Score analytics with subject-wise performance insights
-- 🎯 Enhanced UI/UX achieving **95% mobile responsiveness**
-- 📈 40% increase in daily user engagement
+<table>
+<tr>
+<td width="60%">
+
+**🔧 Architecture**
+| Layer | Technology |
+|:---|:---|
+| **Mobile (4 Apps)** | Flutter, Dart |
+| **Backend & Realtime** | Firebase, Firestore, FCM |
+| **Location Services** | Google Maps API |
+| **Payments** | Razorpay (Multi-Party Split) |
+
+</td>
+<td width="40%">
+
+**📈 Impact Metrics**
+| Metric | Result |
+|:---|:---|
+| Dedicated Apps Built | **4** |
+| Menu Items Handled | **500+** |
+| Transaction Integrity | **100%** |
+| Commission Tracking | Real-time |
+
+</td>
+</tr>
+</table>
+
+**Key Engineering:**
+- 📱 **4-App Flutter Ecosystem** — Customer App, Restaurant Seller App, Delivery Rider App, and Admin Panel — all sharing a unified Firebase backend
+- 📍 **Live Order Tracking** — Google Maps API integration with Firebase Cloud Messaging for real-time location + push notification delivery
+- 💳 **Multi-Party Payment Engine** — Custom Razorpay commission-splitting logic ensuring 100% transactional integrity across platform, sellers, and riders
 
 ---
 
@@ -122,166 +197,116 @@ Currently working on building **Fresh Dine** - a complete food delivery ecosyste
 
 <div align="center">
 
-### Languages
+### ☕ Core Backend — Java & Spring Ecosystem
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### 🧠 Generative AI & LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+
+`RAG` · `Vector Embeddings` · `React Agents` · `Prompt Engineering` · `NLP` · `LLM Orchestration`
+
+### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend
+### 📱 Mobile & Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Databases
+### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FF9800?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firestore-FF9800?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools & Platforms
+### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### APIs & Services
-- **Payment Integration**: Razorpay
-- **Maps**: Google Maps API
-- **SMS**: Twilio API
-- **Cloud Messaging**: Firebase Cloud Messaging
-- **Authentication**: JWT, Firebase Auth
-- **Microservices Architecture**: REST APIs, JSON Web Tokens
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## ☕ Java Spring Boot Expertise
-
-### Backend Development Mastery
-I specialize in building **scalable, production-ready backend systems** using **Spring Boot 3.x** with modern Java practices.
-
-**Spring Boot Skills:**
-- 🏗️ **Microservices Architecture**: Building scalable REST APIs with Spring Boot
-- 🔐 **Security**: Spring Security, JWT authentication, OAuth2 integration
-- 💾 **Data Persistence**: Spring Data JPA, Hibernate ORM, PostgreSQL optimization
-- 📡 **RESTful APIs**: Design patterns, API versioning, comprehensive documentation
-- 🔄 **Async Processing**: Spring WebFlux, reactive programming
-- 📋 **Validation**: Bean validation, custom validators, error handling
-- 🧪 **Testing**: JUnit 5, Mockito, integration testing
-- 🚀 **Deployment**: Docker containerization, CI/CD pipelines
-
-**Real-World Projects:**
-- EduPay system with 1000+ concurrent users
-- Student record management with SMS notifications
-- Multi-tenant admin dashboards with role-based access
-
----
-
-## 🏆 Achievements & Recognitions
+## 🏆 Competitive Programming & Achievements
 
 <div align="center">
 
-| Achievement | Details | Year |
-|-------------|---------|------|
-| **CodeChef** | 4-Star Rating (1800+ points) | 2024 |
-| **LeetCode** | Knight Rating (1850+ problems solved) | 2024 |
-| **CodeForces** | Specialist Level (1400+ rating) | 2024 |
-| **SHASTRA** | IIT Madras Programming Contest - **Finalist** | 2023 |
-| **JEE Advanced** | AIR 20,503 (Top 2.5% among 1.2M+ candidates) | 2022 |
-| **Spring Boot Expert** | Built production-grade backend systems | 2024 |
-| **Full-Stack Developer** | 4+ complete projects deployed | 2024 |
+| Platform | Rating | Problems | Badge |
+|:---:|:---:|:---:|:---:|
+| **LeetCode** | ⚔️ Knight **(1950+)** | 1,100+ solved | ![LeetCode](https://img.shields.io/badge/Knight-FFA116?style=flat-square&logo=leetcode&logoColor=black) |
+| **Codeforces** | 🔵 Specialist **(1540)** | 250+ solved | ![Codeforces](https://img.shields.io/badge/Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) |
+| **CodeChef** | ⭐ 4-Star **(1819)** | 100+ solved | ![CodeChef](https://img.shields.io/badge/4%20Star-5B4638?style=flat-square&logo=codechef&logoColor=white) |
+
+</div>
+
+| 🏆 Achievement | Details |
+|:---|:---|
+| 🥇 **HacktoCrack 2.0** | **1st Place** in EdTech Track — outperformed 50+ multidisciplinary teams (2023) |
+| 🎯 **Algo Utsav Contest** | **Top 30** out of 2,200+ teams — 3-member squad architecting efficient algorithms |
+| 🚀 **IICPC CodeFest'25** | **Rank 1748** among 45,000+ global participants |
+
+---
+
+## 🤝 Leadership
+
+**Technical & Event Management Lead** — *IIIT Kernel (Technical Exploration Club)*
+- 🎤 Organized **25+ technical sessions** with industry leaders and distinguished alumni
+- 👥 Engaged **500–800 students per event**, building a culture of technical curiosity across campus
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engnaman7752&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engnaman7752&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engnaman7752&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
 ---
 
-## 📊 Statistics
+## 📚 Relevant Coursework
+
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `Computer Networking` · `Database Management Systems` · `System Design`
+
+---
+
+## 📫 Let's Build Something Together
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engnaman7752&show_icons=true&theme=dark&hide_border=true)
+**Open to collaborations, freelance projects, and backend engineering opportunities!**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engnaman7752&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 💼 Core Competencies
-
-### Development
-- **Mobile Development**: Cross-platform development with Flutter
-- **Backend Development**: Spring Boot, RESTful APIs, Microservices
-- **Database Design**: SQL optimization, Firestore real-time databases
-- **Full-Stack Development**: End-to-end application development
-- **Cloud Services**: Firebase (Auth, Firestore, Storage, Functions)
-
-### Specializations
-- **State Management**: Provider, GetX pattern
-- **Real-time Features**: Firestore Streams, WebSockets
-- **Payment Integration**: Razorpay, Stripe
-- **Authentication**: JWT, OAuth, Firebase Auth
-- **API Development**: RESTful design, API documentation
-
-### Soft Skills
-- Communication, Leadership, Collaboration
-- Technical Writing & Documentation
-- Project Management & Problem Solving
-- Creative Thinking & Adaptability
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engnaman7752)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanjain7752@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engnaman7752)
 
 ---
 
-## 🚀 What I'm Currently Doing
+![Visitor Count](https://komarev.com/ghpvc/?username=engnaman7752&style=for-the-badge&color=58A6FF)
 
-- 🔨 Completing **Fresh Dine Food Delivery Platform** (Seller & Rider apps)
-- 📚 Learning **Advanced Flutter Animations** & **Performance Optimization**
-- 🧪 Exploring **Firebase Cloud Functions** for backend automation
-- 🌐 Building expertise in **CI/CD pipelines** with GitHub Actions
-- 📖 Contributing to open-source Flutter projects
+**⭐ If you find my projects interesting, consider giving them a star!**
 
----
-
-## 💡 Philosophy
-
-> *"Code is poetry. Build products that solve real-world problems with clean architecture and comprehensive documentation."*
-
-I believe in:
-- ✅ Clean, maintainable code
-- ✅ User-centric design
-- ✅ Comprehensive documentation
-- ✅ Continuous learning & improvement
-- ✅ Open-source contributions
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-**Open to collaborations, freelance projects, and internship opportunities!**
-
-- 💼 **LinkedIn**: [Naman Jain](https://www.linkedin.com/in/naman-jain7752)
-- 📧 **Email**: [nj26010@gmail.com](mailto:nj26010@gmail.com)
-- 📱 **Phone**: [+91 8440071773](tel:+918440071773)
-- 🐙 **GitHub**: [@engnaman7752](https://github.com/engnaman7752)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find my projects useful, please consider giving them a star!
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=engnaman7752)
+*Built with ☕ Java and ❤️ by Naman Jain*
 
 </div>
