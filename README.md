@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engnaman7752)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain7752/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engnaman7752)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/eng_naman7752)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanjain7752@gmail.com)
@@ -263,8 +263,8 @@ public class NamanJain {
 | Platform | Rating | Problems | Badge |
 |:---:|:---:|:---:|:---:|
 | **LeetCode** | ⚔️ Knight **(1950+)** | 1,400+ Total Problems Solved | [![LeetCode](https://img.shields.io/badge/Knight-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/eng_naman7752) |
-| **Codeforces** | 🔵 Specialist **(Max 1540)** | Active Competitive Coder | [![Codeforces](https://img.shields.io/badge/Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/eng_naman7752) |
-| **CodeChef** | ⭐ 4-Star **(1,819)** | Active Division 2 Coder | [![CodeChef](https://img.shields.io/badge/4%20Star-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/eng_naman7752) |
+| **Codeforces** | 🔵 Specialist **(Max 1540)** | Active Competitive Coder | [![Codeforces](https://img.shields.io/badge/Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/namanjain7752) |
+| **CodeChef** | ⭐ 4-Star **(1,819)** | Active Division 2 Coder | [![CodeChef](https://img.shields.io/badge/4%20Star-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/nj260106) |
 
 </div>
 
@@ -307,7 +307,7 @@ public class NamanJain {
 
 **Open to collaborations, freelance projects, and backend engineering opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engnaman7752)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain7752/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanjain7752@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engnaman7752)
 
