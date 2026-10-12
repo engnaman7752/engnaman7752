@@ -17,15 +17,25 @@
 
 ## ⚡ Who Am I?
 
-```cpp
-struct NamanJain {
-    std::string education = "B.Tech ECE @ IIIT Kota | CGPA: 8.36/10";
-    std::vector<std::string> focus = {"C++ & Compilers", "Backend Systems (Java/Spring Boot)", "Agentic AI"};
-    std::string building = "Optimizing compilers & AI-powered payment recovery";
-};
+```java
+@SpringBootApplication
+public class NamanJain {
+
+    public static void main(String[] args) {
+        Developer naman = Developer.builder()
+            .name("Naman Jain")
+            .education("B.Tech ECE @ IIIT Kota | CGPA: 8.36/10")
+            .role("Software Engineer — Backend & Systems")
+            .passions(List.of("C++ & Compilers", "Distributed Backend", "Generative AI Agents", "System Design"))
+            .currentlyBuilding("Optimizing Compilers & AI-Powered Recovery Engines")
+            .build();
+
+        SpringApplication.run(NamanJain.class, args);
+    }
+}
 ```
 
-> I build systems end to end: optimizing compilers in C++, production backends in Java & Spring Boot, and autonomous agents with LangGraph.
+> I engineer **systems & production backends** — from optimizing compilers in **C++** and resilient microservices in **Java & Spring Boot** to autonomous agents with **LangGraph & RAG**.
 
 ---
 
