@@ -17,25 +17,15 @@
 
 ## ⚡ Who Am I?
 
-```java
-@SpringBootApplication
-public class NamanJain {
-
-    public static void main(String[] args) {
-        Developer naman = Developer.builder()
-            .name("Naman Jain")
-            .education("B.Tech ECE @ IIIT Kota | CGPA: 8.36/10")
-            .role("Software Engineer — Backend & Full-Stack Development")
-            .passions(List.of("Distributed Backend", "Generative AI Agents", "System Design"))
-            .currentlyBuilding("AI-Powered Recovery Engines & Multi-Tenant Systems")
-            .build();
-
-        SpringApplication.run(NamanJain.class, args);
-    }
-}
+```cpp
+struct NamanJain {
+    std::string education = "B.Tech ECE @ IIIT Kota | CGPA: 8.36/10";
+    std::vector<std::string> focus = {"C++ & Compilers", "Backend Systems (Java/Spring Boot)", "Agentic AI"};
+    std::string building = "Optimizing compilers & AI-powered payment recovery";
+};
 ```
 
-> I engineer **production-grade backend systems** using **Java & Spring Boot** — from RESTful APIs and WebSocket engines to autonomous agents with **LangGraph, Spring AI, and RAG**. I architect systems with robust security, deterministic fallbacks, and resilient data layers.
+> I build systems end to end: optimizing compilers in C++, production backends in Java & Spring Boot, and autonomous agents with LangGraph.
 
 ---
 
@@ -207,6 +197,8 @@ public class NamanJain {
 - 🔒 **Multi-Tenant JWT Security** — Secured an enterprise multi-tenant architecture with **Spring Security and JWT**, strictly isolating each educational institution's data at the API and query layer.
 - 🧠 **RAG Helpdesk with Spring AI** — Built an institutional helpdesk on **Spring AI and Retrieval-Augmented Generation (RAG)** querying vector-embedded handbooks, answering student and parent queries with **90%+ response accuracy**.
 
+👉 [View Repository](https://github.com/engnaman7752/EDUPay)
+
 ---
 
 ### 4️⃣ <img src="https://img.shields.io/badge/🌾_Agri_Shield_AI-AI_Crop_Insurance-2E7D32?style=for-the-badge" />
@@ -244,7 +236,7 @@ public class NamanJain {
 **Key Engineering:**
 - 🏗️ **Spring Boot Microservice** — Core backend with JWT-secured REST APIs powering dual Flutter apps for farmers and field inspectors
 - 🤖 **PyTorch Vision Pipeline** — Custom ResNet50 model served via FastAPI achieving 98.7% crop damage classification
-- 🧠 **LangChain ReAct Agent** — Integrated an intelligent conversational agent using **LangChain + RAG** (Reason + Act) for real-time claim assistance, policy Q&A, and agricultural advisory — dynamically retrieving context from knowledge bases
+- 🧠 **LangChain ReAct Agent** — Built a LangChain ReAct agent that answers farmer queries and triggers claim workflows via tool calling, dynamically retrieving policy context from knowledge bases
 - 💳 **Razorpay Payment Flow** — End-to-end automated claim settlement reducing turnaround by 80%
 
 👉 [View Repository](https://github.com/engnaman7752/agri-shield-ai)
@@ -354,7 +346,7 @@ public class NamanJain {
 ## 📫 Let's Build Something Together
 <div align="center">
 
-**Open to collaborations, freelance projects, and backend engineering opportunities!**
+**Open to collaborations, freelance projects, and backend, systems and compiler engineering opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain7752/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nj260106@gmail.com)
