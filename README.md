@@ -127,7 +127,51 @@ public class NamanJain {
 
 ---
 
-### 2️⃣ <img src="https://img.shields.io/badge/🏫_EduPay_AI-GenAI_School_System-1565C0?style=for-the-badge" />
+### 2️⃣ <img src="https://img.shields.io/badge/⚙️_Mini--C_Compiler-Optimizing_C%2B%2B17_Compiler-4A148C?style=for-the-badge" />
+> **Optimizing Mini-C Compiler** — C++17 + Three-Address IR + CFG Optimizer + Linear-Scan Register Allocator + x86-64 ASM
+> 
+> ⚡ **Emits ~28% fewer instructions and achieves 1.2–1.7× speedups over -O0, matching/beating GCC -O0 across benchmarks**
+
+<table>
+<tr>
+<td width="60%">
+
+**🔧 Architecture**
+| Layer | Technology |
+|:---|:---|
+| **Front End** | Hand-Written Lexer, Recursive-Descent Parser, AST |
+| **Intermediate Repr.** | Control-Flow Graph (CFG) of Basic Blocks, 3-Address Code |
+| **Optimizer (-O1)** | 10 Fixed-Point Passes (Constant Fold, CSE, DCE, CFG Cleanup) |
+| **Register Allocator** | Iterative Dataflow Liveness + Linear Scan (5 Callee-Saved Regs) |
+| **Target Backend** | x86-64 AT&T Assembly, System V AMD64 ABI |
+| **Verification** | Differential Testing vs GCC (-O0/-O1) + 2,000+ Random Fuzz Tests |
+
+</td>
+<td width="40%">
+
+**📈 Impact Metrics**
+| Metric | Result |
+|:---|:---|
+| Instruction Reduction | **~28% fewer instructions** |
+| Execution Speedup | **1.2–1.7× faster runtime** |
+| vs. GCC -O0 | **Matches or outperforms** |
+| Differential Test Suite | **53/53 GCC checks passing** |
+| Random Fuzz Testing | **2,000+ tests zero mismatches** |
+
+</td>
+</tr>
+</table>
+
+**Key Engineering:**
+- 🧩 **Zero-Dependency Front End & CFG IR** — Hand-crafted lexer, recursive-descent parser, and semantic analyzer lowering C constructs into a virtual-register 3-address control-flow graph in ~2,600 lines of modern C++17.
+- ⚡ **Fixed-Point IR Optimizer** — Implemented 10 optimization passes including global/local constant folding (32-bit wrapping semantics), common-subexpression elimination (LVN), copy propagation, algebraic simplification, and branch/jump threading.
+- 🎯 **Linear-Scan Register Allocation & Peepholes** — Computed live intervals via dataflow analysis to map virtual registers to x86-64 physical registers, fusing compares/branches (`cmp` + `jcc`) and replacing division/modulus by powers of 2 with rounding shifts.
+
+👉 [View Repository](https://github.com/engnaman7752/mini-c-compiler)
+
+---
+
+### 3️⃣ <img src="https://img.shields.io/badge/🏫_EduPay_AI-GenAI_School_System-1565C0?style=for-the-badge" />
 > **Generative AI School Management System** — Spring Boot + Spring AI + RAG + WebSockets (STOMP)
 
 <table>
@@ -165,7 +209,7 @@ public class NamanJain {
 
 ---
 
-### 3️⃣ <img src="https://img.shields.io/badge/🌾_Agri_Shield_AI-AI_Crop_Insurance-2E7D32?style=for-the-badge" />
+### 4️⃣ <img src="https://img.shields.io/badge/🌾_Agri_Shield_AI-AI_Crop_Insurance-2E7D32?style=for-the-badge" />
 > **AI-Powered Crop Insurance Platform** — Spring Boot + PyTorch + LangChain React Agent
 
 <table>
@@ -298,7 +342,7 @@ public class NamanJain {
 ---
 
 ## 📚 Relevant Coursework
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `Computer Networking` · `Database Management Systems` · `System Design`
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `Compiler Design` · `Computer Networking` · `Database Management Systems` · `System Design`
 
 ---
 
