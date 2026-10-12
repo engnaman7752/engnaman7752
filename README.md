@@ -2,14 +2,14 @@
 
 # Hey there, I'm Naman Jain 👋
 
-### `Software Engineer` | `Java & Spring Boot Backend` | `Generative AI & LangGraph` | `1,400+ DSA Problems`
+### `Software Engineer` | `C++ Compilers & Systems` | `Java & Spring Boot Backend` | `Generative AI & LangGraph` | `1,400+ DSA Problems`
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain7752/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engnaman7752)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/eng_naman7752)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanjain7752@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nj260106@gmail.com)
 
 </div>
 
@@ -194,23 +194,23 @@ public class NamanJain {
 | Metric | Result |
 |:---|:---|
 | RAG Query Accuracy | **90%+** |
-| Admin Effort Reduction | **85%** |
-| Manual Inquiry Reduction | **70%** |
-| Architecture | Multi-Tenant |
+| Fee Reminders | **Automated AI drafts** |
+| Parent Inquiries | **24/7 AI self-service** |
+| Architecture | **Multi-Tenant Isolation** |
 
 </td>
 </tr>
 </table>
 
 **Key Engineering:**
-- ⚡ **STOMP WebSocket Notification Engine** — Engineered a real-time notification engine using **WebSockets (STOMP) in Spring Boot** to push automated, AI-drafted fee reminders to students and parents, cutting administrative workload by 85%.
+- ⚡ **STOMP WebSocket Notification Engine** — Engineered a real-time notification engine using **WebSockets (STOMP) in Spring Boot** to push automated, AI-drafted fee reminders to students and parents with instant sub-second delivery.
 - 🔒 **Multi-Tenant JWT Security** — Secured an enterprise multi-tenant architecture with **Spring Security and JWT**, strictly isolating each educational institution's data at the API and query layer.
 - 🧠 **RAG Helpdesk with Spring AI** — Built an institutional helpdesk on **Spring AI and Retrieval-Augmented Generation (RAG)** querying vector-embedded handbooks, answering student and parent queries with **90%+ response accuracy**.
 
 ---
 
 ### 4️⃣ <img src="https://img.shields.io/badge/🌾_Agri_Shield_AI-AI_Crop_Insurance-2E7D32?style=for-the-badge" />
-> **AI-Powered Crop Insurance Platform** — Spring Boot + PyTorch + LangChain React Agent
+> **AI-Powered Crop Insurance Platform** — Spring Boot + PyTorch + LangChain ReAct Agent
 
 <table>
 <tr>
@@ -221,7 +221,7 @@ public class NamanJain {
 |:---|:---|
 | **Core Backend** | Java, Spring Boot, Spring Security, JWT |
 | **AI/ML Engine** | PyTorch ResNet50, FastAPI |
-| **GenAI Agent** | LangChain, RAG, React Agent |
+| **GenAI Agent** | LangChain, RAG, ReAct Agent |
 | **Mobile** | Flutter (Farmer App + Inspector App) |
 | **Payments** | Razorpay Gateway |
 | **Database** | PostgreSQL |
@@ -244,7 +244,7 @@ public class NamanJain {
 **Key Engineering:**
 - 🏗️ **Spring Boot Microservice** — Core backend with JWT-secured REST APIs powering dual Flutter apps for farmers and field inspectors
 - 🤖 **PyTorch Vision Pipeline** — Custom ResNet50 model served via FastAPI achieving 98.7% crop damage classification
-- 🧠 **LangChain React Agent** — Integrated an intelligent conversational agent using **LangChain + RAG** for real-time claim assistance, policy Q&A, and agricultural advisory — dynamically retrieving context from knowledge bases
+- 🧠 **LangChain ReAct Agent** — Integrated an intelligent conversational agent using **LangChain + RAG** (Reason + Act) for real-time claim assistance, policy Q&A, and agricultural advisory — dynamically retrieving context from knowledge bases
 - 💳 **Razorpay Payment Flow** — End-to-end automated claim settlement reducing turnaround by 80%
 
 👉 [View Repository](https://github.com/engnaman7752/agri-shield-ai)
@@ -273,6 +273,8 @@ public class NamanJain {
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![x86-64 Assembly](https://img.shields.io/badge/x86--64_Assembly-37474F?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -290,6 +292,9 @@ public class NamanJain {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🔧 DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GCC](https://img.shields.io/badge/GCC-A040A0?style=for-the-badge&logo=gnu&logoColor=white)
+![Make](https://img.shields.io/badge/Make-064F8C?style=for-the-badge&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -352,7 +357,7 @@ public class NamanJain {
 **Open to collaborations, freelance projects, and backend engineering opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-jain7752/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanjain7752@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nj260106@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engnaman7752)
 
 ---
